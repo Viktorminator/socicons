@@ -1,0 +1,8 @@
+{
+  "name": "socicons",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "font-awesome": "~4.5.0"
+  }
+}
